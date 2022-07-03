@@ -1,0 +1,4 @@
+- 👋 Hi, I’m SHashikumar 
+- 👀 I’m interested in data science with understanding of Data preprocessing, Data Cleansing, Data Modelling and Statistical Analysis with help of Python programming.
+- 💞️ I’m looking to collaborate on projects related to Data preprocessing and extract valable/business insights.
+- 📫 How to reach me @ shashikumar
